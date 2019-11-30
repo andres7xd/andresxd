@@ -28,6 +28,16 @@ namespace basicosCSharp
             double resultadoRaiz = Math.Sqrt(144);
 
 
+            int primerNumero = 48;
+            int segundoNumero = 12;
+            primerNumero += segundoNumero;
+            primerNumero -= segundoNumero;
+            primerNumero *= segundoNumero;
+            primerNumero /= segundoNumero;
+            primerNumero %= segundoNumero;
+            primerNumero++;
+            primerNumero--;
+            
 
 
 
