@@ -37,7 +37,17 @@ namespace basicosCSharp
             primerNumero %= segundoNumero;
             primerNumero++;
             primerNumero--;
-            
+
+            //Tipos de comparracion
+
+            bool comparacionY = true && true;
+            var comparacionO = true || false;
+            bool comparacionIgual = comparacionY == comparacionO;
+            bool valorNegado = !comparacionIgual;
+
+
+
+
 
 
 
