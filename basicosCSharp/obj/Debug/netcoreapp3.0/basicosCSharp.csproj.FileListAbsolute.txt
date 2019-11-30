@@ -8,3 +8,4 @@ C:\Users\andre\Desktop\GitHub\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp3.
 C:\Users\andre\Desktop\GitHub\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp3.0\basicosCSharp.AssemblyInfo.cs
 C:\Users\andre\Desktop\GitHub\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp3.0\basicosCSharp.dll
 C:\Users\andre\Desktop\GitHub\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp3.0\basicosCSharp.pdb
+C:\Users\andre\Desktop\GitHub\basicosCSharp\basicosCSharp\obj\Debug\netcoreapp3.0\basicosCSharp.csprojAssemblyReference.cache
