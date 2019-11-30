@@ -67,6 +67,19 @@ namespace basicosCSharp
                 Console.WriteLine("Este minuto es impar");
             }
 
+            //Control While y Do While
+
+            int rondasFaltantes = 3;
+            while (rondasFaltantes > 0)
+            {
+                rondasFaltantes--;
+            }
+            rondasFaltantes = 3;
+            do
+            {
+                rondasFaltantes--;
+            } while (rondasFaltantes > 0);
+
 
 
 
